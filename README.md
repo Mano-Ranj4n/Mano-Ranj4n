@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Mano-Ranj4n/Mano-Ranj4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mano Ranjan
 
-Here are some ideas to get you started:
+BCA student at Yenepoya University, specializing in Cloud Computing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm learning
+- C (fundamentals and problem solving)
+- Python
+- SQL
+- Cloud computing concepts
+
+## What I'm working on
+Building small beginner projects and uploading my coursework here, with each project documented in its own README.
+
+## Goals
+- Build a solid programming foundation
+- Get hands-on with cloud platforms
+- Contribute to open source
