@@ -9,6 +9,7 @@ BCA student at Yenepoya University, specializing in Cloud Computing.
 - Python
 - SQL
 - Cloud computing concepts
+- Web Basics
 
 ## What I'm working on
 Building small beginner projects and uploading my coursework here, with each project documented in its own README.
